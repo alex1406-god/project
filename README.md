@@ -1,5 +1,6 @@
 '# Project' 
 “This is awesome project.”
-## How to start"
-## How to start" 
-## Some new section here
+
+## How to start"## How to start" 
+
+## Conflict
